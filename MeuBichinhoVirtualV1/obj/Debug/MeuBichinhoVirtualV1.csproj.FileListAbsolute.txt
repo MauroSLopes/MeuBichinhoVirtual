@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\MeuBichinhoVirtualV1\MeuBichinhoVirtualV1\bin\Debug\MeuBichinhoVirtualV1.exe.config
+C:\Users\Mauro\Documents\C#Learning\MeuBichinhoVirtualV1\MeuBichinhoVirtualV1\bin\Debug\MeuBichinhoVirtualV1.exe
+C:\Users\Mauro\Documents\C#Learning\MeuBichinhoVirtualV1\MeuBichinhoVirtualV1\bin\Debug\MeuBichinhoVirtualV1.pdb
+C:\Users\Mauro\Documents\C#Learning\MeuBichinhoVirtualV1\MeuBichinhoVirtualV1\obj\Debug\MeuBichinhoVirtualV1.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\MeuBichinhoVirtualV1\MeuBichinhoVirtualV1\obj\Debug\MeuBichinhoVirtualV1.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\MeuBichinhoVirtualV1\MeuBichinhoVirtualV1\obj\Debug\MeuBichinhoVirtualV1.exe
+C:\Users\Mauro\Documents\C#Learning\MeuBichinhoVirtualV1\MeuBichinhoVirtualV1\obj\Debug\MeuBichinhoVirtualV1.pdb
